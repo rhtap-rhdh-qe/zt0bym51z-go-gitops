@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zt0bym51z-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zt0bym51z-go
